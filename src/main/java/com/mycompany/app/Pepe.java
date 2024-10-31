@@ -4,7 +4,7 @@ package com.mycompany.app;
  * Hello world!
  */
 
-public class App {
+public class Pepe {
     private int a = 3;
 
     
